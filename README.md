@@ -23,6 +23,6 @@ You should also have a browser on your computer. More than one is even better! A
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/?product=firefox-3.6.8&os=osx%E3%80%88=en-US)
 
-Looking forward to the class!
+Looking forward to the class! Have fun! 
 
 — Elizabeth and Rob
