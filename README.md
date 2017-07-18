@@ -3,7 +3,7 @@ Welcome to J4502: Multimedia Planning and Design
 
 This is the repository for Multimedia Planning and Design. Here, Rob will post sample code throughout the semester. You'll learn HTML, CSS, and JavaScript, alongside best practices.
 
-The [class wiki](https://github.com/j4502-ss17/class/wiki) is where the class [syllabus](https://github.com/j4502-ss17/class/wiki/Syllabus), assignments, due dates, and other information will be posted.
+The [class wiki](https://github.com/j4502-fs17/class/wiki) is where the class [syllabus](https://github.com/j4502-fs17/class/wiki/Syllabus), assignments, due dates, and other information will be posted.
 
 You'll learn how to use repositories like this one throughout the semester.
 
@@ -25,4 +25,4 @@ You should also have a browser on your computer. More than one is even better! A
 
 Looking forward to the class!
 
-— Rob
+— Elizabeth and Rob
